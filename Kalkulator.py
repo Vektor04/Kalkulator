@@ -21,6 +21,7 @@ while lagi=='y':
     print ' \t \t ===================================== '
     a= input(' Masukan Bilangan 1: ')
     b= input (' Masukan Biilangan 2 : ')
+    b= input (' Masukan Biilangan 2 : ')
     print ' 1. Penjumlahan \n 2. pengurangan \n 3. perkalian \n>
     c= input ('Pilih 1-5 : ')
     if c== 1:
