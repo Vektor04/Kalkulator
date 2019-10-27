@@ -13,13 +13,7 @@ def pembagian (a,b):
 
 lagi= 'y'
 while lagi=='y':
-    print ' ====================================='
-    print ' \t \t Author: Raffy '
     print ' \t \t Program Kalkulator Raffy Gans'
-    print ' \t \t Selamat Mencoba Teman-teman'
-    print ' °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°'
-    print ' \t \t Follow Instagram :@rava_art_story '
-    print ' ====================================='
     a= input(' Masukan Bilangan 1: ')
     b= input (' Masukan Biilangan 2 : ')
     print ' 1. Penjumlahan \n 2. pengurangan \n 3. perkalian \n 4. pembagian \n'
@@ -33,7 +27,4 @@ while lagi=='y':
     else :
         print 'Hasilnya adalah = ', pembagian (a,b)
 
-       print ' Terimakasih Sudah Menggunakan Tools Saya ^_^ '
-       print ' Jangan Lupa Follow Instagram Saya @rava_art_story '
-       print ' Heheheh THANKS FOR YOU^_^ '
-      lagi=raw_input(" Mau Lagi ?[y/t] : ")
+    lagi=raw_input(" Mau Lagi ?[y/t] : ")
